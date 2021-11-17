@@ -1,0 +1,5 @@
+x = input("name")
+y = input("age")
+z = input ("phone")
+a = input ("address")
+print (f"your name is = {x} your age is = {y} your phone number is = {z} your adress is ={a}")
